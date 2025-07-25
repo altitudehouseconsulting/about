@@ -35,7 +35,7 @@ Proven record in implementing governance frameworks, managing large-scale data m
 ### Altitude House Consulting — Owner / Data Systems Consultant  
 _Sanford, FL | Oct 2021 – Present_
 
-- Designed ERP frameworks for aviation rental operations, integrating SAP, PeopleSoft, and Deltek  
+- Managed aviation rental operations, automation, horizontal and vertical growth  
 - Built Power BI dashboards connected to SQL Server and SharePoint  
 - Delivered ERP training via GitHub and YouTube  
 
