@@ -35,31 +35,31 @@ Proven record in implementing governance frameworks, managing large-scale data m
 ### Altitude House Consulting — Owner / Data Systems Consultant  
 _Sanford, FL | Oct 2021 – Present_
 
-- Managed aviation rental operations, automation, horizontal and vertical growth  
-- Built Power BI dashboards connected to SQL Server and SharePoint  
-- Delivered ERP training via GitHub and YouTube  
+– Led aviation rental operations with automated systems to drive scalable vertical and horizontal growth
+– Built dynamic Power BI dashboards integrated with SQL Server and SharePoint for actionable insights
+– Developed ERP data training, multi-industry governance programs, and an enterprise data dictionary
 
 ### Florida Municipal Power Pool — Senior Operations Analyst  
 _Orlando, FL | Mar 2022 – Feb 2024_
 
-- Automated SQL Server workflows across multiple municipal utilities  
-- Enforced data governance using Teams and SharePoint  
-- Supported Azure/AWS/Snowflake hybrid cloud data ingestion  
+– Automated SQL Server workflows across multiple municipal utility systems to streamline operations
+– Implemented data governance controls leveraging Microsoft Teams and SharePoint collaboration tools
+– Supported hybrid cloud data ingestion pipelines across Azure, AWS, and Snowflake environments
 
 ### Disney Financial Systems — Business Intelligence Developer  
 _Orlando, FL | Apr 2021 – Jan 2022_
 
-- Built Oracle and SAP BO reports aligned with financial stakeholder needs  
-- Authored JIRA-based audit trails and supported ad hoc reporting  
+– Developed Oracle-sourced SAP BusinessObjects reports tailored to financial stakeholder requirements
+– Created JIRA-integrated audit trails and delivered responsive ad hoc reporting support
 
 ### Plexos Group (FEMA) — IT Business Analyst / Data Developer  
 _U.S. Virgin Islands | Oct 2018 – Mar 2020_
 
-- Managed FEMA cms database and ssis procedures 
-- Supported Tableau dashboards   
-- Created ETL pipelines for contractor performance reporting
-- Data collection of contractor invoice
-- Prepared project data for Witt Obrien Review and FEMA   
+– Managed FEMA CMS database operations and maintained SSIS procedures for data integration
+– Supported Tableau dashboards with timely updates and data validation
+– Built ETL pipelines to track and report contractor performance metrics
+– Collected and standardized contractor invoice data for analysis
+– Prepared project datasets for Witt O'Brien's audits and FEMA compliance reviews
 
 ### Verizon — BI Analyst, Financial Systems  
 _Orlando, FL | Oct 2010 – Oct 2017_
@@ -70,8 +70,9 @@ _Orlando, FL | Oct 2010 – Oct 2017_
 ### Comcast Cable — Senior Analyst, Customer Ops & Marketing  
 _Atlanta, GA | Oct 2002 – Apr 2009_
 
-- Built budget dashboards and operational analytics for 25+ call centers  
-- Developed competitive offer matrices and triple play data models  
+– Collected and prepared budget and operational data to support performance analysis across 25+ call centers
+– Aggregated and analyzed data at market, regional, divisional, and corporate levels for executive reporting
+– Supported competitive pricing matrices, triple-play service models, and sales performance reporting
 
 ---
 
