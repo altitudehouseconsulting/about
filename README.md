@@ -35,9 +35,9 @@ Proven record in implementing governance frameworks, managing large-scale data m
 ### Altitude House Consulting — Owner / Data Systems Consultant  
 _Sanford, FL | Oct 2021 – Present_
 
-– Led aviation rental operations with automated systems to drive scalable vertical and horizontal growth
-– Built dynamic Power BI dashboards integrated with SQL Server and SharePoint for actionable insights
-– Developed ERP data training, multi-industry governance programs, and an enterprise data dictionary
+- Led aviation rental operations with automated systems to drive scalable vertical and horizontal growth
+- Built dynamic Power BI dashboards integrated with SQL Server and SharePoint for actionable insights
+- Developed ERP data training, multi-industry governance programs, and an enterprise data dictionary
 
 ### Florida Municipal Power Pool — Senior Operations Analyst  
 _Orlando, FL | Mar 2022 – Feb 2024_
