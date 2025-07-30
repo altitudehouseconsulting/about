@@ -24,7 +24,7 @@ Proven record in implementing governance frameworks, managing large-scale data m
 - BI Tools: Power BI • SSRS • SAP BO • Tableau  
 - Scripting: T-SQL • PowerShell • Python  
 - Compliance: SOX • NIST • COBIT  
-- Cloud Platforms: Azure • AWS  
+- Cloud Platforms: Azure • AWS • Snowflake  
 - Financial & Operational Data Modeling  
 - Change Management • SDLC Documentation  
 
@@ -44,7 +44,7 @@ _Orlando, FL | Mar 2022 – Feb 2024_
 
 - Automated SQL Server workflows across multiple municipal utilities  
 - Enforced data governance using Teams and SharePoint  
-- Supported Azure/AWS hybrid cloud integration for reporting  
+- Supported Azure/AWS/Snowflake hybrid cloud data ingestion  
 
 ### Disney Financial Systems — Business Intelligence Developer  
 _Orlando, FL | Apr 2021 – Jan 2022_
@@ -55,8 +55,11 @@ _Orlando, FL | Apr 2021 – Jan 2022_
 ### Plexos Group (FEMA) — IT Business Analyst / Data Developer  
 _U.S. Virgin Islands | Oct 2018 – Mar 2020_
 
-- Managed FEMA database systems and Tableau dashboards  
-- Created ETL pipelines for contractor performance reporting  
+- Managed FEMA cms database and ssis procedures 
+- Supported Tableau dashboards   
+- Created ETL pipelines for contractor performance reporting
+- Data collection of contractor invoice
+- Prepared project data for Witt Obrien Review and FEMA   
 
 ### Verizon — BI Analyst, Financial Systems  
 _Orlando, FL | Oct 2010 – Oct 2017_
