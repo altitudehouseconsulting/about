@@ -8,9 +8,23 @@
 
 ## Influential Data Management & Governance Leader
 
-Results-driven Data Analyst and Information Governance Specialist with 10+ years of experience leading enterprise data initiatives across financial, utility, telecommunications, and government sectors.  
-Expert in SQL Server, Oracle, and Teradata within ERP systems such as SAP, PeopleSoft, Infor, Deltek, and Sage.  
-Proven record in implementing governance frameworks, managing large-scale data migrations, and enforcing compliance with SOX, COBIT, and NIST standards.
+---
+
+## 🎓 Education & Certifications
+
+- **MBA** – Information Security Management, Saint Leo University (2016)  
+- **BA** – Communications Management, Saint Leo University (2011)  
+- **Six Sigma Green Belt** – 2009
+- **ITIL** 
+- **Azure Fundamentals**
+
+---
+
+## 🔧 Technical Stack
+
+SQL Server • Oracle • Teradata • Snowflake • AWS • Azure • Power BI 
+SSRS • SAP BO • Tableau • Python • PowerShell • SharePoint • Teams 
+GitHub • JIRA • Excel (Power Pivot, VBA, Macros) • EMS (Utility) 
 
 ---
 
@@ -74,18 +88,4 @@ _Atlanta, GA | Oct 2002 – Apr 2009_
 - Aggregated and analyzed data at market, regional, divisional, and corporate levels for executive reporting
 - Supported competitive pricing matrices, triple-play service models, and sales performance reporting
 
----
 
-## 🎓 Education & Certifications
-
-- **MBA** – Information Security Management, Saint Leo University (2016)  
-- **BA** – Communications Management, Saint Leo University (2011)  
-- **Six Sigma Green Belt** – 2009  
-
----
-
-## 🔧 Technical Stack
-
-SQL Server • Oracle • Teradata • Power BI • SSRS • SAP BO • Tableau  
-Python • PowerShell • SharePoint • Teams • Azure • AWS • GitHub  
-Excel (Power Pivot, VBA, Macros) • EMS (Utility) • JIRA  
