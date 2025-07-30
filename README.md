@@ -42,24 +42,24 @@ _Sanford, FL | Oct 2021 – Present_
 ### Florida Municipal Power Pool — Senior Operations Analyst  
 _Orlando, FL | Mar 2022 – Feb 2024_
 
-– Automated SQL Server workflows across multiple municipal utility systems to streamline operations
-– Implemented data governance controls leveraging Microsoft Teams and SharePoint collaboration tools
-– Supported hybrid cloud data ingestion pipelines across Azure, AWS, and Snowflake environments
+- Automated SQL Server workflows across multiple municipal utility systems to streamline operations
+- Implemented data governance controls leveraging Microsoft Teams and SharePoint collaboration tools
+- Supported hybrid cloud data ingestion pipelines across Azure, AWS, and Snowflake environments
 
 ### Disney Financial Systems — Business Intelligence Developer  
 _Orlando, FL | Apr 2021 – Jan 2022_
 
-– Developed Oracle-sourced SAP BusinessObjects reports tailored to financial stakeholder requirements
-– Created JIRA-integrated audit trails and delivered responsive ad hoc reporting support
+- Developed Oracle-sourced SAP BusinessObjects reports tailored to financial stakeholder requirements
+- Created JIRA-integrated audit trails and delivered responsive ad hoc reporting support
 
 ### Plexos Group (FEMA) — IT Business Analyst / Data Developer  
 _U.S. Virgin Islands | Oct 2018 – Mar 2020_
 
-– Managed FEMA CMS database operations and maintained SSIS procedures for data integration
-– Supported Tableau dashboards with timely updates and data validation
-– Built ETL pipelines to track and report contractor performance metrics
-– Collected and standardized contractor invoice data for analysis
-– Prepared project datasets for Witt O'Brien's audits and FEMA compliance reviews
+- Managed FEMA CMS database operations and maintained SSIS procedures for data integration
+- Supported Tableau dashboards with timely updates and data validation
+- Built ETL pipelines to track and report contractor performance metrics
+- Collected and standardized contractor invoice data for analysis
+- Prepared project datasets for Witt O'Brien's audits and FEMA compliance reviews
 
 ### Verizon — BI Analyst, Financial Systems  
 _Orlando, FL | Oct 2010 – Oct 2017_
@@ -70,9 +70,9 @@ _Orlando, FL | Oct 2010 – Oct 2017_
 ### Comcast Cable — Senior Analyst, Customer Ops & Marketing  
 _Atlanta, GA | Oct 2002 – Apr 2009_
 
-– Collected and prepared budget and operational data to support performance analysis across 25+ call centers
-– Aggregated and analyzed data at market, regional, divisional, and corporate levels for executive reporting
-– Supported competitive pricing matrices, triple-play service models, and sales performance reporting
+- Collected and prepared budget and operational data to support performance analysis across 25+ call centers
+- Aggregated and analyzed data at market, regional, divisional, and corporate levels for executive reporting
+- Supported competitive pricing matrices, triple-play service models, and sales performance reporting
 
 ---
 
