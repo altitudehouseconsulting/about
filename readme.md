@@ -13,7 +13,6 @@
 ## 🎓 Education & Certifications
 
 - **MBA** – Information Security Management, Saint Leo University (2016)  
-- **BA** – Communications Management, Saint Leo University (2011)  
 - **Six Sigma Green Belt** – 2009
 - **ITIL** 
 - **Azure Fundamentals**
