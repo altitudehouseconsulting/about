@@ -72,7 +72,7 @@ _U.S. Virgin Islands | Oct 2018 – Mar 2020_
 - Supported Tableau dashboards with timely updates and data validation
 - Built ETL pipelines to track and report contractor performance metrics
 - Collected and standardized contractor invoice data for analysis
-- Prepared project datasets for Witt O'Brien's audits and FEMA compliance reviews
+- Prepared project datasets for Witt O'Brien audits and FEMA compliance reviews
 
 ### Verizon — BI Analyst, Financial Systems  
 _Orlando, FL | Oct 2010 – Oct 2017_
