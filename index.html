@@ -6,6 +6,9 @@
   <meta name="description" content="Resume of Jason Novak - Influential Data Management & Governance Leader" />
   <title>Jason Novak | Data Management & Governance Leader</title>
   <style>
+    /* ---------------------------
+       Base layout & theme
+       --------------------------- */
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
@@ -15,7 +18,7 @@
       color: #333;
     }
     header {
-      background: #003366;
+      background: #003366; /* brand blue */
       color: #fff;
       padding: 20px 0;
       text-align: center;
@@ -30,19 +33,82 @@
     }
     h1, h2, h3 {
       color: #003366;
+      margin-top: 0;
     }
-    ul {
-      padding-left: 20px;
-    }
-    .section {
-      margin-bottom: 20px;
-    }
+    ul { padding-left: 20px; }
+    .section { margin-bottom: 24px; }
     footer {
       text-align: center;
       padding: 10px;
       font-size: 0.9em;
       background: #e0e0e0;
       color: #333;
+    }
+
+    /* ---------------------------
+       Recommendations section
+       - Uses <details> for tidy collapsible cards
+       - Replace placeholder content with real quotes
+       --------------------------- */
+    #recommendations .rec { /* each testimonial item */
+      border-left: 4px solid #003366;
+      background: #f9fbff;          /* subtle blue-tinted panel */
+      padding: 12px 14px;
+      margin: 12px 0;
+      border-radius: 4px;
+    }
+    #recommendations details.rec { /* allow click-to-expand */
+      padding: 0;
+      background: #fff;
+      border: 1px solid #d8e2f0;
+      border-left: 4px solid #003366;
+      overflow: hidden;
+    }
+    #recommendations details.rec[open] {
+      background: #f9fbff;
+    }
+    #recommendations details.rec summary {
+      list-style: none;              /* hide default marker for consistent look */
+      cursor: pointer;
+      padding: 12px 14px;
+      font-weight: 600;
+      color: #003366;
+      outline: none;
+      user-select: none;
+    }
+    /* custom marker (triangle) */
+    #recommendations details.rec summary::before {
+      content: "▶";
+      display: inline-block;
+      margin-right: 8px;
+      transform: translateY(-1px);
+    }
+    #recommendations details.rec[open] summary::before {
+      content: "▼";
+    }
+    #recommendations .rec-body {
+      padding: 0 14px 14px 14px;
+    }
+    #recommendations blockquote {
+      margin: 8px 0 6px 0;
+      font-style: italic;
+    }
+    #recommendations .rec-meta {
+      margin-top: 6px;
+      font-size: 0.95em;
+      color: #555;
+    }
+    #recommendations .rec-meta a {
+      color: #003366;
+      text-decoration: none;
+    }
+    #recommendations .rec-meta a:hover { text-decoration: underline; }
+
+    /* Print tweaks: keep things readable on paper */
+    @media print {
+      header, footer { background: #fff; color: #000; }
+      .container { box-shadow: none; }
+      /* Tip: set details to open before printing if you want all quotes visible */
     }
   </style>
 </head>
@@ -94,7 +160,7 @@
         <li>Created JIRA-integrated audit trails and delivered responsive ad hoc reporting support</li>
       </ul>
 
-            <h3>IT/Business Analyst, Data Developer (2018 – 2020)</h3>
+      <h3>IT/Business Analyst, Data Developer (2018 – 2020)</h3>
       <ul>
         <li>Managed FEMA CMS database operations and maintained SSIS procedures for data integration</li>
         <li>Built ETL pipelines to track and report contractor performance metrics</li>
@@ -114,6 +180,69 @@
         <li>Aggregated and analyzed data at market, regional, divisional, and corporate levels for executive reporting</li>
         <li>Supported competitive pricing matrices, triple-play service models, and sales performance reporting</li>
       </ul>
+    </section>
+
+    <!-- ===========================
+         NEW: Recommendations Section
+         - Drop in real quotes from managers/peers/clients.
+         - Duplicate a <details class="rec"> block for each testimonial.
+         - Optional: add target="_blank" LinkedIn URLs.
+         =========================== -->
+    <section class="section" id="recommendations">
+      <h2>Recommendations</h2>
+
+      <!-- EXAMPLE 1 (open by default) -->
+      <details class="rec" open>
+        <summary><!-- Summary shows at a glance -->
+          Jane Smith — Director of Data Governance, Example Utility (2024)
+        </summary>
+        <div class="rec-body">
+          <blockquote>
+            “Jason took ownership of a fragile data migration and delivered a clean, auditable cutover.
+            His controls mindset and ability to coach stakeholders saved us weeks of churn.”
+          </blockquote>
+          <p class="rec-meta">
+            Relationship: Engagement Lead •
+            <!-- TODO: Replace with your actual link or remove the anchor entirely -->
+            <a href="https://www.linkedin.com/" target="_blank" rel="noopener">View profile</a>
+          </p>
+        </div>
+      </details>
+
+      <!-- EXAMPLE 2 -->
+      <details class="rec">
+        <summary>
+          John Doe — Sr. Manager, Financial Systems, Media Co. (2022)
+        </summary>
+        <div class="rec-body">
+          <blockquote>
+            “He built reliable BI pipelines and answered tough ad-hoc asks with speed and accuracy.
+            Jason’s documentation made audits painless.”
+          </blockquote>
+          <p class="rec-meta">Relationship: Cross-functional Partner</p>
+        </div>
+      </details>
+
+      <!-- EXAMPLE 3 -->
+      <details class="rec">
+        <summary>
+          Alex Rivera — Operations Analyst, Telecom (2016)
+        </summary>
+        <div class="rec-body">
+          <blockquote>
+            “Process-first thinking, then automation. That’s Jason. He improved our reporting, reduced manual effort,
+            and left the team stronger.”
+          </blockquote>
+          <p class="rec-meta">Relationship: Peer</p>
+        </div>
+      </details>
+
+      <!-- HOW TO ADD MORE:
+        1) Copy a <details class="rec">…</details> block.
+        2) Replace the summary line with Name — Title, Company (Year).
+        3) Paste the quote into <blockquote>.
+        4) Adjust the Relationship and link as needed.
+      -->
     </section>
 
     <section class="section">
